@@ -6,7 +6,7 @@ This project demonstrates how to build a scalable and secure Internship Manageme
 - Cloud-based MySQL database using AWS RDS
 - Read Replicas for improved read performance
 - Secure access using VPC and Security Groups
-- 
+  
 ## 🛠️ AWS Services Used
 - Amazon RDS (MySQL)
 - VPC
